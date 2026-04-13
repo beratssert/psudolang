@@ -1,0 +1,6 @@
+BOOLEAN a = FALSE;
+BOOLEAN b = TRUE;
+
+a = TRUE;
+PRINT(a);
+PRINT(10 + 5 * 2);
